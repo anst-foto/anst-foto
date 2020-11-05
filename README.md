@@ -5,11 +5,15 @@
 
 I am IT teacher
 
-I teach at STEP Computer Academy (https://vrn.itstep.org/)
+I teach in the Computer Academy STEP and college VIHT
 
 Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
-- 🔭 I’m currently working on this page. 
+Organizations:
+- @itstep-vrn
+- @itstep-shambala
+- @college-VIVT
+- @IT-Edu
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anst-foto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/starinin-andrey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anstfoto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1NBQ7IKptpWo-YLLJkXZlQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://anst-foto.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/500px.svg' alt='500px' height='40'>](https://500px.com/p/andreystarinin)  
@@ -18,4 +22,4 @@ Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=anst-foto&layout=compact)](https://github.com/anst-foto/github-readme-stats)
