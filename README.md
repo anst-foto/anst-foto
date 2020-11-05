@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Andrey
 #### I am IT teacher
+![Profile views](https://gpvc.arturio.dev/anst-foto)  
 ![I am IT teacher](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am IT teacher
@@ -17,4 +18,4 @@ Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/anst-foto)  
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
