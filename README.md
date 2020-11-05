@@ -3,6 +3,7 @@
 ![I am IT teacher](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am IT teacher
+
 I teach at STEP Computer Academy (https://vrn.itstep.org/)
 
 Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
