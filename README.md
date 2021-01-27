@@ -3,7 +3,7 @@
 
 I am IT teacher
 
-I teach in the Computer Academy STEP and college VIHT
+I teach in the Computer Academy STEP
 
 Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
