@@ -5,6 +5,8 @@ I am IT teacher
 
 I teach in the Computer Academy STEP
 
+Co-author of the podcast "IT за Edu"
+
 Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
 Organizations:
