@@ -23,6 +23,4 @@ Organizations:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=anst-foto&layout=compact)](https://github.com/anst-foto/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)
