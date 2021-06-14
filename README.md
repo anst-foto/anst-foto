@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Andrey Starinin
-![Profile views](https://gpvc.arturio.dev/anst-foto) 
 
 I am IT teacher
 
