@@ -8,6 +8,8 @@ Co-author of the podcast "IT за Edu"
 
 Skills: C/C++, C# (WPF, ADO), SQL, Git, Kanban
 
+![Codewars](https://www.codewars.com/users/anst-foto/badges/small)
+
 Organizations:
 - [@IT-za-Edu](https://github.com/IT-za-Edu)
 - [@itstep-vrn](https://github.com/itstep-vrn)
