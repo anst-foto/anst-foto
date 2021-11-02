@@ -2,7 +2,7 @@
 
 I am IT teacher
 
-I teach in the Computer Academy STEP
+I teach in the [Computer Academy STEP](https://itstep.org/)
 
 Co-author of the podcast "[IT за Edu](https://github.com/IT-za-Edu)"
 
