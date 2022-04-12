@@ -13,12 +13,10 @@ Co-author of the podcast "[IT за Edu](https://github.com/IT-za-Edu)"
 Organizations:
 - [@IT-za-Edu](https://github.com/IT-za-Edu)
 - [@StudentProgrammingProjects](https://github.com/StudentProgrammingProjects)
-- [@itstep-vrn](https://github.com/itstep-vrn)
-- [@itstep-shambala](https://github.com/itstep-shambala)
-- [@itstep-irkutsk](https://github.com/itstep-irkutsk)
-- [@itstep-lipetsk](https://github.com/itstep-lipetsk)
-- [@itstep-tolyatti](https://github.com/itstep-tolyatti)
-- [@itstep-ulyanovsk](https://github.com/itstep-ulyanovsk)
+- [@it-top-vrn](https://github.com/it-top-vrn)
+- [@it-top-shambala](https://github.com/it-top-shambala)
+- [@it-top-irkutsk](https://github.com/it-top-irkutsk)
+- [@it-top-lipetsk](https://github.com/it-top-lipetsk)
 - [@vsuet](https://github.com/vsuet)
 - [@college-VIVT](https://github.com/college-VIVT)
 
