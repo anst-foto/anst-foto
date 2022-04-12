@@ -2,7 +2,7 @@
 
 I am IT teacher
 
-I teach in the [Computer Academy STEP](https://itstep.org/) and [VSUET](https://vsuet.ru)
+I teach in the [Computer Academy TOP](https://top-academy.ru/) and [VSUET](https://vsuet.ru)
 
 Co-author of the podcast "[IT за Edu](https://github.com/IT-za-Edu)"
 
