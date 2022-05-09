@@ -26,3 +26,5 @@ IT-преподаватель
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anst-foto) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1NBQ7IKptpWo-YLLJkXZlQ)  [](http://anst-foto.ru) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anst_foto) [![500px](https://img.shields.io/badge/500px-000?style=for-the-badge&logo=500px&logoColor=white)](https://500px.com/p/andreystarinin) [![VK](https://img.shields.io/badge/VK-0077ff?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/anst.foto)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anst-foto)
