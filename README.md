@@ -12,15 +12,17 @@ IT-преподаватель
 ## Мои статьи
 [Полный список статей](https://github.com/anst-foto/articles) - https://github.com/anst-foto/articles
 
-- [Использование GitHub в обучении студентов](./education/using_github_for_student_education.md)
-- [Использование Slack в обучении](./education/using_slack_for_student_education.md)
-- [Использование досок с карточками в обучении](./education/using_taskboard_for_student_education.md)
+- [Использование GitHub в обучении студентов](https://github.com/anst-foto/articles/education/using_github_for_student_education.md)
+- [Использование Slack в обучении](https://github.com/anst-foto/articles/education/using_slack_for_student_education.md)
+- [Использование досок с карточками в обучении](https://github.com/anst-foto/articles/education/using_taskboard_for_student_education.md)
 
 ## Мои курсы
 [Полный список курсов](https://github.com/anst-foto/courses) - https://github.com/anst-foto/courses
 
-- [Шаги к пониманию паттернов проектирования](https://github.com/IT-STEP-to-design-patterns) - <https://github.com/IT-STEP-to-design-patterns>
+- [Шаги к пониманию паттернов проектирования](https://github.com/IT-STEP-to-design-patterns)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9L_TWWSfwIefSdwjXkCihC) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/84608) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
 - [DOTNET CLI](https://github.com/anst-foto/courses/blob/main/README.md#dotnet-cli)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9C7uYkKGqD9ypmpUsevUrp) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/171544)
 
 ***
 
