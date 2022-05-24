@@ -12,9 +12,9 @@ IT-преподаватель
 ## Мои статьи
 [Полный список статей](https://github.com/anst-foto/articles) - https://github.com/anst-foto/articles
 
-- [Использование GitHub в обучении студентов](https://github.com/anst-foto/articles/education/using_github_for_student_education.md)
-- [Использование Slack в обучении](https://github.com/anst-foto/articles/education/using_slack_for_student_education.md)
-- [Использование досок с карточками в обучении](https://github.com/anst-foto/articles/education/using_taskboard_for_student_education.md)
+- [Использование GitHub в обучении студентов](https://github.com/anst-foto/articles/blob/main/education/using_github_for_student_education.md)
+- [Использование Slack в обучении]([https://github.com/anst-foto/articles](https://github.com/anst-foto/articles/blob/main)/education/using_slack_for_student_education.md)
+- [Использование досок с карточками в обучении]([https://github.com/anst-foto/articles](https://github.com/anst-foto/articles/blob/main)/education/using_taskboard_for_student_education.md)
 
 ## Мои курсы
 [Полный список курсов](https://github.com/anst-foto/courses) - https://github.com/anst-foto/courses
