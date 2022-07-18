@@ -35,7 +35,7 @@ IT-преподаватель
 Аккаунты организаций:
 
 - [@IT-za-Edu](https://github.com/IT-za-Edu)
-- [@StudentProgrammingProjects](https://github.com/StudentProgrammingProjects)
+- [@DeveloperCase](https://github.com/DeveloperCase)
 - [@it-top-vrn](https://github.com/it-top-vrn)
 - [@it-top-shambala](https://github.com/it-top-shambala)
 - [@it-top-irkutsk](https://github.com/it-top-irkutsk)
