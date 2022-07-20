@@ -2,7 +2,7 @@
 
 IT-преподаватель
 
-Преподаю в  [Компьютерной академии TOP](https://top-academy.ru/) и [ВГУИТ](https://vsuet.ru)
+Преподаю в [Компьютерной академии TOP](https://top-academy.ru/) и [ВГУИТ](https://vsuet.ru)
 
 Соавтор подкаста "[IT за Edu](https://github.com/IT-za-Edu)"
 
@@ -17,9 +17,9 @@ IT-преподаватель
 - [Использование досок с карточками в обучении](https://github.com/anst-foto/articles/blob/main/education/using_taskboard_for_student_education.md)
 
 ## Мои курсы
-[Полный список курсов](https://github.com/anst-foto/courses) - https://github.com/anst-foto/courses
+[Полный список курсов](https://github.com/StarIT-AnSt) - https://github.com/StarIT-AnSt
 
-- [Шаги к пониманию паттернов проектирования](https://github.com/IT-STEP-to-design-patterns)
+- [Шаги к пониманию паттернов проектирования](https://github.com/StarIT-AnSt)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9L_TWWSfwIefSdwjXkCihC) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/84608) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+FzMD0OvI49FhZWFi)
 - [DOTNET CLI](https://github.com/anst-foto/courses/blob/main/README.md#dotnet-cli)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLBXnHSmq7po9C7uYkKGqD9ypmpUsevUrp) [![RuTube](https://img.shields.io/badge/RuTube-000000?style=for-the-badge&logo=rutube&logoColor=white)](https://rutube.ru/plst/171544)
@@ -36,10 +36,10 @@ IT-преподаватель
 
 - [@IT-za-Edu](https://github.com/IT-za-Edu)
 - [@DeveloperCase](https://github.com/DeveloperCase)
-- [@it-top-vrn](https://github.com/it-top-vrn)
 - [@it-top-shambala](https://github.com/it-top-shambala)
 - [@it-top-irkutsk](https://github.com/it-top-irkutsk)
 - [@it-top-lipetsk](https://github.com/it-top-lipetsk)
+- [@it-top-vrn](https://github.com/it-top-vrn)
 - [@vsuet](https://github.com/vsuet)
 - [@college-VIVT](https://github.com/college-VIVT)
 
